@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Malware-Traffic-Analysis.net - Blog Entries</title>
+        <link>http://www.malware-traffic-analysis.net/index.html</link>
+        <description>A malware traffic analysis blog</description>
+        <item>
+            <title>2017-08-16 - Some emails, malware, and pcaps for &quot;Lukitus&quot; variant Locky ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/16/index.html</link>
+            <pubDate>Wed, 16 Aug 2017 20:16:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-15 - Pcap and malware for an ISC diary (Trickbot malspam)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/15/index.html</link>
+            <pubDate>Tue, 15 Aug 2017 03:43:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-12 - Malspam continues to push Trickbot banking Trojan</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/12/index.html</link>
+            <pubDate>Sat, 12 Aug 2017 20:12:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-11 - &quot;Diablo6&quot; Locky malspam - PDF attachments with embedded .docm files</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/11/index.html</link>
+            <pubDate>Sat, 12 Aug 2017 20:11:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-10 - Hancitor malspam (FedEx shipment delivered)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/10/index.html</link>
+            <pubDate>Fri, 11 Aug 2017 04:32:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-09 - Malware &amp; traffic from malspam pushing Diablo6 variant of Locky</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/09/index2.html</link>
+            <pubDate>Fri, 11 Aug 2017 04:31:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-09 - Pcap and malware for an ISC diary</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/09/index.html</link>
+            <pubDate>Wed, 09 Aug 2017 00:20:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-08 - Quick post: malspam pushing GlobeImposter ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/08/index.html</link>
+            <pubDate>Wed, 09 Aug 2017 01:50:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-07 - Fake BBB malspam uses goo.gl links to send JavaScript file</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/07/index.html</link>
+            <pubDate>Mon, 07 Aug 2017 23:53:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-04 - Magnitude EK data dump</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/04/index.html</link>
+            <pubDate>Fri, 04 Aug 2017 21:18:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-03 - Hancitor malspam (invoice from Casey Martinez)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/03/index.html</link>
+            <pubDate>Thu, 03 Aug 2017 17:49:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-02 - &quot;Blank Slate&quot; malspam pushing Gryphon ransomware (a BTCware variant)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/02/index4.html</link>
+            <pubDate>Thu, 03 Aug 2017 03:33:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-02 - malspam pushing GlobeImposter ransomware (726 file extension)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/02/index3.html</link>
+            <pubDate>Thu, 03 Aug 2017 02:42:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-02 - Hancitor malspam (ADP payroll invoice)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/02/index2.html</link>
+            <pubDate>Wed, 02 Aug 2017 23:36:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-02 - Magnitude EK sends Cerber ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/02/index.html</link>
+            <pubDate>Wed, 02 Aug 2017 21:13:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-08-01 - Rig EK from the HookAds campaign sends Dreambot</title>
+            <link>http://www.malware-traffic-analysis.net/2017/08/01/index.html</link>
+            <pubDate>Wed, 02 Aug 2017 02:23:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-31 - malspam pushing GlobeImposter ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/31/index.html</link>
+            <pubDate>Mon, 31 Jul 2017 22:13:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-29 - &quot;Blank Slate&quot; malspam pushing BTCware (Aleta variant) ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/29/index.html</link>
+            <pubDate>Sat, 29 Jul 2017 04:29:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-28 - Dog Turd in a Big Bowl of Soup: A Security Parable</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/28/index.html</link>
+            <pubDate>Fri, 28 Jul 2017 04:29:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-26 - Pcap and malware for an ISC diary (malspam pushing Emotet)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/26/index.html</link>
+            <pubDate>Wed, 26 Jul 2017 05:25:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-24 - quick post: Hancitor malspam</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/24/index2.html</link>
+            <pubDate>Mon, 24 Jul 2017 20:05:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-24 - quick post: Trickbot malspam</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/24/index.html</link>
+            <pubDate>Mon, 24 Jul 2017 20:04:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-23 - EITest campaign HolflerText popup sends Mole ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/23/index.html</link>
+            <pubDate>Mon, 24 Jul 2017 02:44:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-22 - Traffic analysis exercise - Where dreams are made.</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/22/index.html</link>
+            <pubDate>Sat, 22 Jul 2017 18:55:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-21 - Brazil malspam - Subject: Envio de Boleto - URGENTE - AXECAPITAL</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/21/index.html</link>
+            <pubDate>Sat, 22 Jul 2017 00:28:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-20 - Hancitor malspam (invoice notification)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/20/index.html</link>
+            <pubDate>Fri, 21 Jul 2017 02:09:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-18 - UPS-themed malspam pushing NemucodAES ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/18/index.html</link>
+            <pubDate>Tue, 18 Jul 2017 21:27:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-17 - Rig EK data dump</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/17/index.html</link>
+            <pubDate>Mon, 17 Jul 2017 23:11:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-14 - Another fake tech support scam popup message</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/14/index2.html</link>
+            <pubDate>Fri, 14 Jul 2017 16:51:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-14 - Pcap and malware for an ISC diary</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/14/index.html</link>
+            <pubDate>Fri, 14 Jul 2017 02:26:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-12 - Brazil malspam - Subject: Ultimo aviso da 2a via boleto em Atraso</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/12/index.html</link>
+            <pubDate>Wed, 12 Jul 2017 21:45:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-10 - Rig EK from the HookAds campaign</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/10/index2.html</link>
+            <pubDate>Mon, 10 Jul 2017 23:35:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-10 - More UPS-themed malspam pushing Kovter/Nemucod ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/10/index.html</link>
+            <pubDate>Mon, 10 Jul 2017 19:46:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-07 - Brazil malspam - Subj: Mensagem pessoal (Detran) - (87960)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/07/index.html</link>
+            <pubDate>Fri, 07 Jul 2017 19:34:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-06 - EITest campaign pushes tech support scam</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/06/index.html</link>
+            <pubDate>Fri, 07 Jul 2017 15:25:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-05 - Japanese malspam with Excel spreadsheet attachment</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/05/index.html</link>
+            <pubDate>Wed, 05 Jul 2017 21:34:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-04 - Malspam with Java-based RAT</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/04/index.html</link>
+            <pubDate>Tue, 04 Jul 2017 16:14:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-03 - More UPS-themed malspam pushing Kovter</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/03/index2.html</link>
+            <pubDate>Tue, 04 Jul 2017 01:36:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-07-03 - Hancitor malspam (FedEx tracking notification)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/07/03/index.html</link>
+            <pubDate>Mon, 03 Jul 2017 23:34:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-30 - Rig EK from HookAds campaign sends Chthonic banking Trojan</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/30/index.html</link>
+            <pubDate>Fri, 30 Jun 2017 23:10:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-29 - Kovter malspam - UPS delivery theme</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/29/index2.html</link>
+            <pubDate>Fri, 30 Jun 2017 00:31:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-29 - Hancitor malspam (Google Docs)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/29/index.html</link>
+            <pubDate>Thu, 29 Jun 2017 22:47:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-28 - Hancitor malspam (RingCentral fax)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/28/index3.html</link>
+            <pubDate>Thu, 29 Jun 2017 22:46:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-28 - Pcap and malware for an ISC diary</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/28/index2.html</link>
+            <pubDate>Thu, 29 Jun 2017 01:55:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-28 - Traffic analysis exercise - Infection at the Japan field office.</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/28/index.html</link>
+            <pubDate>Wed, 28 Jun 2017 01:39:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-27 - Hancitor malspam (invoice problems)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/27/index.html</link>
+            <pubDate>Tue, 27 Jun 2017 23:25:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-26 - Hancitor malspam (ADP payroll)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/26/index.html</link>
+            <pubDate>Tue, 27 Jun 2017 23:24:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-22 - Locky malspam - PDF attachments with embedded .docm files</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/22/index.html</link>
+            <pubDate>Fri, 23 Jun 2017 04:28:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-21 - Hancitor malspam (from De Leons Transport, Inc.)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/21/index2.html</link>
+            <pubDate>Wed, 21 Jun 2017 21:09:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-21 - Rig EK sends Bunitu Trojan</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/21/index.html</link>
+            <pubDate>Wed, 21 Jun 2017 21:08:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-20 - Rig EK from HookAds campaign sends Dreambot &amp; Chthonic</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/20/index.html</link>
+            <pubDate>Tue, 20 Jun 2017 18:17:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-19 - Rig EK from the HookAds campaign sends Dreambot</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/19/index.html</link>
+            <pubDate>Mon, 19 Jun 2017 15:15:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-16 - Rig EK from the HookAds campaign</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/16/index2.html</link>
+            <pubDate>Fri, 16 Jun 2017 22:52:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-16 - Boleto malspam</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/16/index.html</link>
+            <pubDate>Fri, 16 Jun 2017 22:51:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-15 - Hancitor malspam (Google Docs-themed)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/15/index2.html</link>
+            <pubDate>Thu, 15 Jun 2017 23:44:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-15 - Rig EK (HookAds and Seamless campaigns)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/15/index.html</link>
+            <pubDate>Thu, 15 Jun 2017 21:36:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-14 - Trickbot malspam - PDF attachments with embedded .xlsm files</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/14/index2.html</link>
+            <pubDate>Thu, 15 Jun 2017 01:03:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-14 - Hancitor malspam (ADP bill)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/14/index.html</link>
+            <pubDate>Thu, 15 Jun 2017 01:02:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-13 - malspam pushing Jaff ransomware from .wsf files</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/13/index.html</link>
+            <pubDate>Tue, 13 Jun 2017 20:43:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-12 - Hancitor malspam (Docusign-themed)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/12/index5.html</link>
+            <pubDate>Tue, 13 Jun 2017 00:26:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-12 - malspam pushing Trickbot from .wsf files</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/12/index4.html</link>
+            <pubDate>Tue, 13 Jun 2017 00:25:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-12 - malspam - Subject: Confirmation Required</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/12/index3.html</link>
+            <pubDate>Tue, 13 Jun 2017 00:24:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-12 - Japanese Ursnif malspam</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/12/index2.html</link>
+            <pubDate>Tue, 13 Jun 2017 00:23:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-12 - Loki Bot malspam - Subject: Re: PURCHASE ORDER 457211</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/12/index.html</link>
+            <pubDate>Tue, 13 Jun 2017 00:22:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-09 - EITest campaign still pushing tech support scams</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/09/index.html</link>
+            <pubDate>Fri, 09 Jun 2017 17:50:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-08 - Hancitor malspam (Dropbox-themed)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/08/index2.html</link>
+            <pubDate>Thu, 08 Jun 2017 23:43:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-08 - Portuguese malspam - Notificacao IPTU</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/08/index.html</link>
+            <pubDate>Thu, 08 Jun 2017 23:42:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-07 - Hancitor malspam (Google Docs-themed)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/07/index2.html</link>
+            <pubDate>Wed, 07 Jun 2017 20:29:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-07 - Loki Bot malspam - Subject: Re:Purchase request</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/07/index.html</link>
+            <pubDate>Wed, 07 Jun 2017 19:35:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-06 - Hancitor malspam - Subject: New incoming fax from 421-xxx-xxxx</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/06/index3.html</link>
+            <pubDate>Wed, 07 Jun 2017 01:02:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-06 - malspam pushing Jaff ransomware from Word docs in PDF attachments</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/06/index2.html</link>
+            <pubDate>Wed, 07 Jun 2017 01:01:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-06 - RoughTed campaign Rig EK</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/06/index.html</link>
+            <pubDate>Wed, 07 Jun 2017 01:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-05 - Dridex malspam (Word docs in PDF attachments)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/05/index.html</link>
+            <pubDate>Mon, 05 Jun 2017 20:09:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-02 - Seamless campaign continues using Rig EK to send Ramnit</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/02/index2.html</link>
+            <pubDate>Fri, 02 Jun 2017 23:59:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-02 - Dridex malspam (Word docs in PDF attachments)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/02/index.html</link>
+            <pubDate>Fri, 02 Jun 2017 21:55:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-01 - Hancitor malspam - Google Docs-themed emails</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/01/index3.html</link>
+            <pubDate>Fri, 02 Jun 2017 01:49:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-01 - malspam pushing Jaff ransomware from Word docs in PDF attachments</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/01/index2.html</link>
+            <pubDate>Fri, 02 Jun 2017 00:47:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-06-01 - Parking ticket-themed malspam pushing Zeus Panda Banker</title>
+            <link>http://www.malware-traffic-analysis.net/2017/06/01/index.html</link>
+            <pubDate>Thu, 01 Jun 2017 19:44:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-31 - Hancitor malspam - Subject: Your package has been returned!</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/31/index2.html</link>
+            <pubDate>Wed, 31 May 2017 18:27:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-31 - malspam - Subject: RFQ-Doc</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/31/index.html</link>
+            <pubDate>Wed, 31 May 2017 16:58:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-30 - Rig EK sends Kovter</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/30/index3.html</link>
+            <pubDate>Tue, 30 May 2017 23:40:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-30 - EITest campaign pushing tech support scams, Rig EK, HoeflerText popups</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/30/index2.html</link>
+            <pubDate>Tue, 30 May 2017 22:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-30 - Hancitor malspam - Subject: FedEx Shipment Notification</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/30/index.html</link>
+            <pubDate>Tue, 30 May 2017 19:43:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-26 - EITest campaign pushing tech support scams, Rig EK, HoeflerText popups</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/26/index2.html</link>
+            <pubDate>Fri, 26 May 2017 22:55:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-26 - Malspam - Subject: DHL Tracking Number for shipment 97 93745 186</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/26/index.html</link>
+            <pubDate>Fri, 26 May 2017 22:54:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-25 - EITest campaign pushing tech support scams in US and UK</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/25/index3.html</link>
+            <pubDate>Fri, 26 May 2017 00:22:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-25 - Malspam pushing Jaff ransomware from Word docs in PDF attachments</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/25/index2.html</link>
+            <pubDate>Thu, 25 May 2017 21:14:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-25 - Hancitor malspam with a Google Docs theme</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/25/index.html</link>
+            <pubDate>Thu, 25 May 2017 19:30:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-24 - Malspam pushing Jaff ransomware from Word docs in PDF attachments</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/24/index2.html</link>
+            <pubDate>Thu, 25 May 2017 15:07:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-24 - Pcap and malware for an ISC diary (about Jaff ransomware)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/24/index.html</link>
+            <pubDate>Tue, 23 May 2017 23:57:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-22 - Malspam pushing Jaff ransomware from Word docs in PDF attachments</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/22/index.html</link>
+            <pubDate>Mon, 22 May 2017 22:19:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-18 - Guest blog by David Szili - Pcap of WannaCry spreading using EnternalBlue</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/18/index2.html</link>
+            <pubDate>Fri, 19 May 2017 15:23:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-18 - Traffic analysis exercise - Fancy that.</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/18/index.html</link>
+            <pubDate>Fri, 19 May 2017 01:27:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-17 - EITest HoeflerText popups sends Spora ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/17/index.html</link>
+            <pubDate>Thu, 18 May 2017 16:17:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-16 - Hancitor malspam - Subject: UPS Shipment Label Notification</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/16/index2.html</link>
+            <pubDate>Wed, 17 May 2017 01:18:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-16 - More examples of malspam pushing Jaff ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/16/index.html</link>
+            <pubDate>Tue, 16 May 2017 23:56:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-15 - My take on WannaCry ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/15/index2.html</link>
+            <pubDate>Tue, 16 May 2017 01:36:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-15 - The Jaff ransomware train keeps on rollin'</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/15/index.html</link>
+            <pubDate>Mon, 15 May 2017 13:16:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-12 - FedEx-themed malspam pushes Kovter (again)</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/12/index3.html</link>
+            <pubDate>Sat, 13 May 2017 01:29:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-12 - Rig EK examples</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/12/index2.html</link>
+            <pubDate>Fri, 12 May 2017 23:59:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-12 - &quot;Blank Slate&quot; malspam continues pushing Cerber ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/12/index.html</link>
+            <pubDate>Fri, 12 May 2017 18:17:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-11 - Jumping on the Jaff ransomware bandwagon</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/11/index3.html</link>
+            <pubDate>Fri, 12 May 2017 03:50:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-11 - FedEx-themed malspam pushes Kovter</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/11/index2.html</link>
+            <pubDate>Fri, 12 May 2017 01:53:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-11 - Pcap and malware for an ISC diary on Rig EK</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/11/index.html</link>
+            <pubDate>Thu, 11 May 2017 01:44:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-10 - Hancitor malspam - Subpoenas and Comcast bills</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/10/index2.html</link>
+            <pubDate>Wed, 10 May 2017 23:09:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-10 - &quot;Blank Slate&quot; malspam pushing Cerber and GlobeImposter ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/10/index.html</link>
+            <pubDate>Wed, 10 May 2017 20:39:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-09 - Hancitor malspam - Subject: RE: may subpoena from FTC</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/09/index2.html</link>
+            <pubDate>Wed, 10 May 2017 01:01:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-09 - Rig EK sends Bunitu Trojan</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/09/index.html</link>
+            <pubDate>Wed, 10 May 2017 01:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-05 - &quot;Blank Slate&quot; malspam back to sending Cerber</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/05/index.html</link>
+            <pubDate>Sat, 06 May 2017 00:32:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-04 - Hancitor malspam - Subject: USPS Proof of Delivery letter on your shipment</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/04/index2.html</link>
+            <pubDate>Thu, 04 May 2017 22:53:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-04 - Decimal IP campaign uses fake Adobe Flash Player site to send Smoke Loader</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/04/index.html</link>
+            <pubDate>Thu, 04 May 2017 22:52:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-03 - &quot;Blank Slate&quot; malspam starts pushing GlobeImposter ransomware variant</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/03/index2.html</link>
+            <pubDate>Wed, 03 May 2017 21:29:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-03 - WhatsApp malspam - Subject: Missed voice message</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/03/index.html</link>
+            <pubDate>Wed, 03 May 2017 17:02:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-02 - Hancitor malspam - Subject: Your online bill is available. Amount due $484.45</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/02/index2.html</link>
+            <pubDate>Tue, 02 May 2017 20:46:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-02 - Keeping it 100: &quot;Blank Slate&quot; malspam starts pushing Mordor ransomware</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/02/index.html</link>
+            <pubDate>Tue, 02 May 2017 05:12:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-05-01 - Hancitor malspam - Subject: 725-630-1234 has sent you a 3 page(s) fax!</title>
+            <link>http://www.malware-traffic-analysis.net/2017/05/01/index.html</link>
+            <pubDate>Mon, 01 May 2017 20:20:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-28 - Banking Trojan malspam - Subject: UPS Tracking Number for shipment H6902644376</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/28/index.html</link>
+            <pubDate>Fri, 28 Apr 2017 14:02:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-27 - &quot;Blank Slate&quot; malspam still pushing Cerber, also trying CVE-2017-0199</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/27/index.html</link>
+            <pubDate>Fri, 28 Apr 2017 00:48:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-26 - Hancitor malspam - Subject: Your invoice 123456 is available for review!</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/26/index2.html</link>
+            <pubDate>Thu, 27 Apr 2017 02:19:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-26 - USPS-themed malspam pushes Mole Ransomware and Kovter</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/26/index.html</link>
+            <pubDate>Thu, 27 Apr 2017 00:46:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-25 - &quot;Good Man&quot; campaign Rig EK sends Latentbot</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/25/index.html</link>
+            <pubDate>Tue, 25 Apr 2017 17:27:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-24 - Hancitor malspam - Subject: RE: RE: wrong amount for invoice # 1234567</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/24/index.html</link>
+            <pubDate>Tue, 25 Apr 2017 01:24:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-21 - Dridex-style malspam pushes Locky ransomware instead</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/21/index3.html</link>
+            <pubDate>Sat, 22 Apr 2017 20:45:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-21 - USPS-themed malspam changes to Parking Service malspam</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/21/index2.html</link>
+            <pubDate>Fri, 21 Apr 2017 22:40:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-21 - Traffic analysis exericse - Double Trouble.</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/21/index.html</link>
+            <pubDate>Fri, 21 Apr 2017 01:52:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-20 - &quot;Blank Slate&quot; malspam still pushing Cerber</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/20/index2.html</link>
+            <pubDate>Thu, 20 Apr 2017 21:06:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-20 - EITest campaign Rig EK / HoeflerText Chrome popup</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/20/index.html</link>
+            <pubDate>Thu, 20 Apr 2017 21:05:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-19 - Dridex malspam with PDF attachments containing embedded Word docs</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/19/index2.html</link>
+            <pubDate>Wed, 19 Apr 2017 23:37:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-19 - USPS-themed malspam continues</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/19/index.html</link>
+            <pubDate>Wed, 19 Apr 2017 20:50:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-18 - USPS-themed malspam resumes after weekend break</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/18/index2.html</link>
+            <pubDate>Wed, 19 Apr 2017 00:56:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-18 - EITest campaign Rig EK / HoeflerText Chrome popup</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/18/index.html</link>
+            <pubDate>Tue, 18 Apr 2017 22:56:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-16 - EITest campaign Rig EK / HoeflerText Chrome popup</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/16/index.html</link>
+            <pubDate>Tue, 18 Apr 2017 00:06:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-15 - EITest campaign Rig EK / HoeflerText Chrome popup</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/15/index.html</link>
+            <pubDate>Mon, 17 Apr 2017 23:31:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-13 - &quot;Blank Slate&quot; malspam still pushing Cerber, still using fake Chrome page</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/13/index2.html</link>
+            <pubDate>Mon, 17 Apr 2017 21:35:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>2017-04-14 - Gate leads to Terror EK, same gate later leads to Rig EK</title>
+            <link>http://www.malware-traffic-analysis.net/2017/04/14/index.html</link>
+            <pubDate>Sat, 15 Apr 2017 01:09:00 +0000</pubDate>
+        </item>
+   </channel>
+</rss>
